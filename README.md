@@ -3,7 +3,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 ## Estructura del Repositorio 
 Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
 1. **Suma de los dígitos de un número**
-   - 'for': https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio1-for.c
+   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio1-for.c
    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio1-while.c
    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio1-do-while.c
 2. **Inverso de un número**
@@ -39,9 +39,9 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio9-while.c
    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio9-do-while.c
 10. **Verificar si un número es primo**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-do-while.c
 11. **Encontrar el MCD (Máximo Común Divisor)**
    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-for.c
    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-while.c
