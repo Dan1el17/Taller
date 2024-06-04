@@ -7,7 +7,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio1-while.c
    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio1-do-while.c
 2. **Inverso de un número**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio2-for.c
+   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio2-for.c 
    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio2-while.c
    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio2-do-while.c
 3. **Potencia mediante sumas sucesivas**
