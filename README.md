@@ -43,9 +43,9 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-while.c
     - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-do-while.c
 11. **Encontrar el MCD (Máximo Común Divisor)**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-do-while.c     
 12. **Sumar los números impares hasta n**
    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio12-for.c
    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio12-while.c
