@@ -45,40 +45,43 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 11. **Encontrar el MCD (Máximo Común Divisor)**
     - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-for.c
     - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-while.c
-    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-do-while.c     
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio11-do-while.c
 12. **Sumar los números impares hasta n**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio12-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio12-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio12-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio12-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio12-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio12-do-while.c
 13. **Sumar los números pares hasta n**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio13-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio13-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio13-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio13-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio13-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio13-do-while.c
 14. **Suma de los cuadrados de los primeros n números**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio14-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio14-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio14-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio14-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio14-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio14-do-while.c
 15. **Suma de los cubos de los primeros n números**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio15-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio15-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio15-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio15-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio15-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio15-do-while.c
 16. **Suma de una serie de números fraccionarios**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio16-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio16-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio16-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio16-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio16-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio16-do-while.c
 17. **Producto de una serie de números fraccionarios**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio17-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio17-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio17-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio17-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio17-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio17-do-while.c
 18. **Contar los números primos hasta n**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-do-while.c
-19. **Calcular el n-ésimo número triangular**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-do-while.c
-20. **Calcular la suma de los factoriales de los primeros n números**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio20-for.c
-   - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio20-while.c
-   - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio20-do-while.c
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-do-while.c
+  19. **Calcular el n-ésimo número triangular**
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-do-while.c
+21. **Calcular la suma de los factoriales de los primeros n números**
+    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio20-for.c
+    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio20-while.c
+    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio20-do-while.c
+
+
+   - 
