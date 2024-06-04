@@ -38,8 +38,8 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio9-for.c
    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio9-while.c
    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio9-do-while.c
-11. **Verificar si un número es primo**
-   - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-for.c
+10. **Verificar si un número es primo**
+   -`for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-for.c
    - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-while.c
    - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio10-do-while.c
 11. **Encontrar el MCD (Máximo Común Divisor)**
