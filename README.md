@@ -74,7 +74,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-for.c
     - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-while.c
     - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio18-do-while.c
-  19. **Calcular el n-ésimo número triangular**
+19. **Calcular el n-ésimo número triangular**
     - `for`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-for.c
     - `while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-while.c
     - `do while`: https://github.com/Dan1el17/Trabajo/blob/main/Ejercicio19-do-while.c
